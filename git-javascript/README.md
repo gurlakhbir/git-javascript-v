@@ -1,2 +1,2 @@
 # Git JavaScript
-## Gurlakhbir Singh
+## Gurlakhbir singh
